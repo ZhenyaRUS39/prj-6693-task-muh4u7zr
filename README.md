@@ -10,15 +10,15 @@
 
 - [x] Репозиторий `ZhenyaRUS39/prj-6693-task-muh4u7zr` существует на GitHub.
 - [x] `README.md` содержит заголовок `# Тест финального routing`.
-- [x] Структура репозитория инициализирована на ветке `feat/init-base-structure`.
+- [x] Структура репозитория инициализирована (default branch `main`).
 
 ## Метаданные
 
 | Поле       | Значение                              |
-|----------|--------------------------------------|
-| Project   | PRJ-755                              |
-| Repo      | prj-6693-task-muh4u7zr               |
-| Task      | Тест финального routing              |
-| Subtask   | sub-1                                |
-| Profile   | 20razrab1                            |
-| Attempt   | 1 of 3                               |
+|------------|---------------------------------------|
+| Project    | PRJ-755                               |
+| Repo       | prj-6693-task-muh4u7zr                |
+| Task       | Тест финального routing               |
+| Subtask    | sub-1                                 |
+| Profile    | 20razrab1                             |
+| Attempt    | 1 of 3                                |
